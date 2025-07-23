@@ -21,7 +21,3 @@ This project reads a CSV file containing employee scores, and generates a well-f
 - July 2025
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
