@@ -13,3 +13,15 @@ This project reads a CSV file containing employee scores, and generates a well-f
 1. Install required library: pip install fpdf
 2. Run script.py
 3. Check the output: report.pdf
+
+## ✍️ Author
+
+- **Arisha Ansari**  
+- CodTech Internship – Task 4  
+- July 2025
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
