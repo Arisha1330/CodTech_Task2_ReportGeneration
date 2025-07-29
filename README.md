@@ -17,7 +17,7 @@ This project reads a CSV file containing employee scores, and generates a well-f
 ## ✍️ Author
 
 - **Arisha Ansari**  
-- CodTech Internship – Task 4  
+- CodTech Internship  
 - July 2025
 
 ---
